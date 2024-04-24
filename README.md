@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Machine Learning, Data Science, Deep learning and ReactReact**
 
-- 📫 How to reach me **niteshkumar899935@gmail.com**
+- 📫 reach me at **niteshkumar899935@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
