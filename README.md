@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast, Data Scientist and frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learning Enthusiast, Fullstack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samratnitesh&label=Profile%20views&color=0e75b6&style=flat" alt="samratnitesh" /> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing, Next.Js**
+- 🌱 I’m currently learning **Next.Js**
 
-- 💬 Ask me about **Machine Learning, Data Science, Deep learning and ReactReact**
+- 💬 Ask me about **Machine Learning, ReactJs, NextJs**
 
 - 📫 reach me at **niteshkumar899935@gmail.com**
 
